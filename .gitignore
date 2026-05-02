@@ -5,6 +5,10 @@ __pycache__/
 
 # C extensions
 *.so
+Assets/CSV/train_data.csv
+Previous/HW8/trainItem.data/trainItem.data
+SavedModels/autoencoder/track_autoencoder.pt
+Previous/HW9/traindata/trainItem.data
 
 # Distribution / packaging
 .Python
